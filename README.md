@@ -1,14 +1,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Golam Rasul</h1>
-<h3 align="center">A passionate ML enthusiast who loves integrating machine learning with software development</h3>
+<h3 align="center">A passionate AI developer who loves integrating machine learning with software development</h3>
 
-- 🔭 I’m currently working at Fraunhofer Heinrich Hertz Institute's AML Department as a Student Researcher
+- 🔭 I’m currently working at Fraunhofer Heinrich Hertz Institute's AML Department as an AI developer
 - 🌱 I’m currently building a platform to validate and assess AI algorithms for use in critical production environments
 - 📙 I'm pursuing a Master's degree in Data Science in Germany (Pending Thesis)
 - 👨‍🎓 I completed my Bachelor's degree in Computer Science and Engineering in Bangladesh
-- 👯 I’m looking to collaborate on ML/DL/LLM Projects
-- 📫 How to reach me **grpranto@gmail.com**
+- 👯 I love to blend Machine Learning with Software Development
+- 🌐 I’m AWS Certified
+- 📫 How to reach me (Email: **grpranto@gmail.com**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
